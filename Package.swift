@@ -12,7 +12,7 @@ let package = Package(
     products: [
         .library(
             name: "DGCharts",
-            targets: ["Charts"]),
+            targets: ["DGCharts"]),
     ],
     targets: [
         .target(name: "DGCharts")
