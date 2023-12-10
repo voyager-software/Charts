@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A58A4ED274A941CA248EA921"
-               BuildableName = "Charts.framework"
-               BlueprintName = "Charts"
+               BuildableName = "DGCharts.framework"
+               BlueprintName = "DGCharts"
                ReferencedContainer = "container:Charts.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -54,8 +54,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A58A4ED274A941CA248EA921"
-            BuildableName = "Charts.framework"
-            BlueprintName = "Charts"
+            BuildableName = "DGCharts.framework"
+            BlueprintName = "DGCharts"
             ReferencedContainer = "container:Charts.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
